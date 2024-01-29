@@ -30,7 +30,7 @@ cd service1 && npm install && node index.js
 cd service2 && go download && go run main.go
 ```
 
-Now you all set, You should see `Hello world from go server`
+Now they are all set, You should see `Hello world from go server` in service 1
 
 ## Important Links
 
